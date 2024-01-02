@@ -1,7 +1,7 @@
 ## Name: Hariharan.A
 ## Register number: 23012392
 
-# Exp-6-Synchornous-counters - up counter and down counter 
+# Exp 6 Synchornous counters up counter and down counter 
 
 ## AIM: 
 To implement 3 bit up and down counters and validate  functionality.
